@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: php-new-class-template
+# key: class
+# --
+<?php
+
+namespace ${1:name};
+
+class ${2:NewClass}
+{
+    $0
+}

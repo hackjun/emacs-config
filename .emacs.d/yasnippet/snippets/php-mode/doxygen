@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: doxygen-php
+# key: /**
+# --
+/**
+ * @param $1
+ * @return void
+ * @throws Exception
+ * @author 梁雄钧<xiongjun.liang@happy-seed.com>
+ */

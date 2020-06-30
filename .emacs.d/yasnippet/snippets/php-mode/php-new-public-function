@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: php-new-public-function
+# key: pfun
+# --
+/**
+ * ${3:方法说明}
+ * @author 梁雄钧<xiongjun.liang@happy-seed.com>
+ */
+public function ${1:functionName}($2)
+{
+    $0
+}

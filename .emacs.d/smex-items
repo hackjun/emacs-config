@@ -1,0 +1,29 @@
+
+;; ----- smex-history -----
+(
+ helm-M-x
+ package-install
+ ibuffer
+ text-mode
+ treemacs-fringe-indicator-mode
+ treemacs-find-file
+ treemacs-quit
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 4)
+ (package-install . 5)
+ (org-goto . 2)
+ (shell . 1)
+ (treemacs . 5)
+ (treemacs-mode . 1)
+ (treemacs-select-window . 5)
+ (treemacs-quit . 1)
+ (treemacs-find-file . 1)
+ (treemacs-fringe-indicator-mode . 2)
+ (text-mode . 1)
+ (ac-php-show-tip . 3)
+ (ibuffer . 1)
+ (helm-M-x . 1)
+)

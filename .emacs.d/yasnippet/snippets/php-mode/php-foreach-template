@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: php-foreach-template
+# key: foreach
+# --
+foreach (${1:$list} as ${2:$key} => ${3:$value}) {
+    $0
+}

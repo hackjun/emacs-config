@@ -1,0 +1,1 @@
+((hydra :repo "DogLooksGood/emacs-rime" :fetcher github :files ("rime.el" "Makefile" "lib.c")) (quelpa :repo "quelpa/quelpa" :fetcher github))

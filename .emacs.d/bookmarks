@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*- 
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("temp"
+ (filename . "~/www/ems/application/service/live/CancelLiveByHourNum.php")
+ (front-context-string . "            retu")
+ (rear-context-string . "Exception $e) {\n")
+ (position . 3542))
+("call"
+ (filename . "~/www/ems/test.php")
+ (front-context-string . "$call = 'app\\ser")
+ (rear-context-string . "autoload.php';\n\n")
+ (position . 51))
+)

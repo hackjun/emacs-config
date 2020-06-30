@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: php-new-function
+# key: fun
+# --
+if (!function_exists('${1:new-function}')) {
+    /**
+     * ${2:方法说明}
+     * @param $3
+     * @return mixed
+     * @throws Exception
+     * @author 梁雄钧<xiongjun.liang@happy-seed.com>
+     */
+    function $1(${3:param})
+    {
+        $0
+    }
+}

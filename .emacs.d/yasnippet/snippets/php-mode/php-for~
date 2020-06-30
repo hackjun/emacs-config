@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: for
+# key: php-for
+# --
+for (${1:$i} = 0; ${1:$i} < 10; ${1:$i}++) {
+    
+}

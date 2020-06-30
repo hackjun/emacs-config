@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "youdao-dictionary" "20200429.259" "Youdao Dictionary interface for Emacs" '((popup "0.5.0") (pos-tip "0.4.6") (chinese-word-at-point "0.2") (names "0.5") (emacs "24")) :commit "bd839711e3cf6d3eb9c308cea5694369a440899e" :keywords '("convenience" "chinese" "dictionary") :authors '(("Chunyang Xu" . "xuchunyang56@gmail.com")) :maintainer '("Chunyang Xu" . "xuchunyang56@gmail.com") :url "https://github.com/xuchunyang/youdao-dictionary.el")
